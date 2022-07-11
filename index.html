@@ -191,7 +191,7 @@
               <span class="post-meta-item-text">发表于</span>
               
 
-              <time title="创建时间：2022-07-11 11:36:30 / 修改时间：11:37:26" itemprop="dateCreated datePublished" datetime="2022-07-11T11:36:30+08:00">2022-07-11</time>
+              <time title="创建时间：2022-07-11 11:36:30 / 修改时间：12:31:29" itemprop="dateCreated datePublished" datetime="2022-07-11T11:36:30+08:00">2022-07-11</time>
             </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -214,7 +214,7 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          
+          <h1 id="what-is-Machine-Learning"><a href="#what-is-Machine-Learning" class="headerlink" title="what is Machine Learning"></a>what is Machine Learning</h1>
       
     </div>
 
@@ -264,7 +264,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2022-07-11 12:09:42" itemprop="dateModified" datetime="2022-07-11T12:09:42+08:00">2022-07-11</time>
+                <time title="修改时间：2022-07-11 12:11:06" itemprop="dateModified" datetime="2022-07-11T12:11:06+08:00">2022-07-11</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -291,34 +291,14 @@
 <p>$k$邻近算法是一种常见的监督学习方法，其工作机制非常简单：给定测试样本，基于某种距离度量找出训练集中与其最靠近的$k$个训练样本，然后基于$k$个“邻居”的信息进行预测。</p>
 </blockquote>
 <p><strong>$k$邻近算法中最重要参数的就是$k$这个参数，当$k$ = 1时，1NN 及最邻近算法，在二分类问题上进行讨论。</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;!--more--&gt;</span><br></pre></td></tr></table></figure>
-<h2 id="最近邻算法"><a href="#最近邻算法" class="headerlink" title="最近邻算法"></a>最近邻算法</h2><h3 id="一、算法概述"><a href="#一、算法概述" class="headerlink" title="一、算法概述"></a>一、算法概述</h3><p> 最近邻算法或者说KNN算法，是一种基本的分类与回归方法，是数据挖掘技术中最简单的技术之一。Cover和Hart在1968年提出了最初的邻近算法，它的输入是基于实例的学习（instance-based learning），属于懒惰学习（lazy learning）即KNN是一种非显示学习过程，也就是没有训练阶段，对新样本直接与训练集做分类或者回归预测。</p>
-<p> 所谓最近邻，就是首先选取一个阈值为K，对在阈值范围内离测试样本最近的点进行投票，票数多的类别就是这个测试样本的类别，这是分类问题。那么回归问题也同理，对在阈值范围内离测试样本最近的点取均值，那么这个值就是这个样本点的预测值。</p>
-<h3 id="二、学习过程"><a href="#二、学习过程" class="headerlink" title="二、学习过程"></a>二、学习过程</h3><h3 id="1、分类"><a href="#1、分类" class="headerlink" title="1、分类"></a>1、分类</h3><p> 先举个简单的例子，如下图数据：</p>
-<p><img src="https://pic4.zhimg.com/v2-c1ec9f3fed4c8ab5583eff47b98f004b_r.jpg" alt="img"></p>
-<p> 假设紫色的点是类“1”，绿色的点是类“0”，而黄色的点是我们要预测的样本点。在这里我们采用欧式距离为我们的衡量标准。</p>
-<p> 1点与样本点的距离为：$\sqrt{(2.0 - 1.0)^2+(1.0-1.0)^2}=1$</p>
-<p> 2点与样本点的距离为：$\sqrt{(2.0-1.5)^2+(1.0-1.1)^2}=0.510$</p>
-<p> 3点与样本点的距离为：$\sqrt{(2.0-1.0)^2+(1.0-1.5)^2}=1.118$</p>
-<p> 4点与样本点的距离为：$\sqrt{(2.5-2.0)^2+(1.05-1.0)^2}=0.502$</p>
-<p> 5点与样本点的距离为：$\sqrt{(3.0-2.0)^2+(1.1-1.0)^2}=1.004$</p>
-<p> 6点与样本点的距离为: $\sqrt{(3.0-2.0)^2+(1.2-1.0)^2}=1.020$</p>
-<p> 令K=3时，距离样本点最近的三个点为1，2，4对应的类别为“1”，“1”，“0”，所以此时样本点为“1”类别。</p>
-<p> 令K=4时，距离样本点最近的四个点对应的类别为“1”，“1”，“0”，“0”，此时重新选取K值计算。</p>
-<p> 令K=5时，距离样本点最近的五个点对应的类别为“1”，“1”，“0”，“0”，“0”，所以此时样本点为“0”类别。</p>
-<h3 id="2、回归"><a href="#2、回归" class="headerlink" title="2、回归"></a>2、回归</h3><p> 与分类问题大同小异，在训练数据中选取与样本点相似特征的K个点并取均值，即为样本点的预测值。</p>
-<p> 举个简单的例子：</p>
-<p>| 总房间数 | 卧室数量 | 价格 | | ———— | ———— | —— | | 7 | 2 | 100 | | 7 | 3 | 150 | | 9 | 2 | 300 |</p>
-<p> 假设我有一个2卧室的房子，如果K=2，根据数据我可以得到我房子的价格为$(100+300)/2=200$</p>
-<h3 id="三、总结"><a href="#三、总结" class="headerlink" title="三、总结"></a>三、总结</h3><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">最近邻算法使用的模型实际上对应于特征空间的划分。模型由三个基本要素组成：距离度量、K值、分类决策规则。</span><br></pre></td></tr></table></figure>
-<p> K值得选取：</p>
-<p> 如果选择较小的K值，就相当于用较小的领域中的训练实例进行预测，“学习”的近似误差会减小，只有与输入实例较近的训练实例才会对预测结果起作用。但缺点是“学习”的误差估计会增大，预测结果会对近邻的实例点非常敏感，如果邻近的实例点恰巧是噪声，预测就会出错。换句话说，K值得减小就意味着整体模型变得复杂，易发生过拟合。</p>
-<p> 如果选择较大的K值，就相当于用较大领域中的训练实例进行预测。优点是可以减少学习的估计误差，但缺点是近似误差会增大。这时与输入实例较远的训练实例也会对预测起作用，使预测发生误差。K值增大会使模型变得简单。</p>
-<p> 在应用中，K值一般选取一个比较小的数值。通常采用交叉验证法来选取最优的K值。</p>
-<p> 最近邻算法的优点：思想简单，可用与分类与回归，准确度高，对噪声不敏感。</p>
-<p> 缺点：计算量大，难解决样本不平衡问题，需要大量内存。</p>
-<h3 id="代码："><a href="#代码：" class="headerlink" title="代码："></a>代码：</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line"><span class="keyword">import</span> operator</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置数据</span></span><br><span class="line">x_data = np.array([[<span class="number">3</span>, <span class="number">104</span>], [<span class="number">2</span>, <span class="number">100</span>], [<span class="number">1</span>, <span class="number">81</span>], [<span class="number">101</span>, <span class="number">10</span>], [<span class="number">99</span>, <span class="number">5</span>], [<span class="number">98</span>, <span class="number">2</span>]])</span><br><span class="line">y_data = np.array([<span class="string">&quot;R&quot;</span>, <span class="string">&quot;R&quot;</span>, <span class="string">&quot;R&quot;</span>, <span class="string">&quot;A&quot;</span>, <span class="string">&quot;A&quot;</span>, <span class="string">&quot;A&quot;</span>])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置位置测试数据</span></span><br><span class="line">x_test = np.array([[<span class="number">18</span>, <span class="number">90</span>]])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 数据的行数</span></span><br><span class="line">x_size = x_data.shape[<span class="number">0</span>]</span><br><span class="line"></span><br><span class="line">x_test = np.tile(x_test, (x_size, <span class="number">1</span>))</span><br><span class="line"><span class="comment"># print(x_test)</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 计算欧式距离</span></span><br><span class="line">Eur_dis = np.square(x_data - x_test).<span class="built_in">sum</span>(axis=<span class="number">1</span>) ** <span class="number">0.5</span></span><br><span class="line"><span class="comment"># print(Eur_dis)</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 排序</span></span><br><span class="line">sortArg = Eur_dis.argsort()</span><br><span class="line"><span class="comment"># print(sortArg)</span></span><br><span class="line"></span><br><span class="line">k = <span class="number">5</span></span><br><span class="line">classCount = &#123;&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(k):</span><br><span class="line">    votelabel = y_data[sortArg[i]]</span><br><span class="line">    classCount[votelabel] = classCount.get(votelabel, <span class="number">0</span>) + <span class="number">1</span></span><br><span class="line"><span class="comment"># print(classCount)</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 对字典的值进行排序</span></span><br><span class="line"><span class="comment"># classCount.item()将字典的键和值分为两个部分</span></span><br><span class="line"><span class="comment"># key = operator.itemgetter(1)表示对值进行排序，如果是0，表示对键进行排序</span></span><br><span class="line"><span class="comment"># reverse表降序</span></span><br><span class="line">sortArgClass = <span class="built_in">sorted</span>(classCount.items(), key=operator.itemgetter(<span class="number">0</span>), reverse=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(sortArgClass)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 获取数量最多的标签</span></span><br><span class="line">knnclass = sortArgClass[<span class="number">0</span>][<span class="number">0</span>]</span><br><span class="line"><span class="built_in">print</span>(knnclass)</span><br></pre></td></tr></table></figure>
-
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2022/07/09/cs231n-Day1/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
