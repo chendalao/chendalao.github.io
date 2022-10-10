@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/posts/d84dbbc6.html</loc>
+    
+    <lastmod>2022-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/posts/72bbddf7.html</loc>
     
     <lastmod>2022-10-10</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://example.com/posts/f04a1e6f.html</loc>
-    
-    <lastmod>2022-10-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/d84dbbc6.html</loc>
     
     <lastmod>2022-10-10</lastmod>
     
@@ -63,13 +63,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/cmake/</loc>
-    <lastmod>2022-10-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/Makefile/</loc>
     <lastmod>2022-10-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,6 +71,13 @@
   
   <url>
     <loc>http://example.com/tags/shell/</loc>
+    <lastmod>2022-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/cmake/</loc>
     <lastmod>2022-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
