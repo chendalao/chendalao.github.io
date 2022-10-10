@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/posts/d84dbbc6.html</loc>
+    
+    <lastmod>2022-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2022-10-10</lastmod>
@@ -54,14 +63,21 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/shell/</loc>
+    <loc>http://example.com/tags/cmake/</loc>
     <lastmod>2022-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/cmake/</loc>
+    <loc>http://example.com/tags/Makefile/</loc>
+    <lastmod>2022-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/shell/</loc>
     <lastmod>2022-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
