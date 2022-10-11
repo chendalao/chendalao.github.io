@@ -3,11 +3,11 @@
   <title>Thor&#39;s Home</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://houvhaoyue.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-10-10T11:10:13.864Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://houvhaoyue.top/"/>
+  <updated>2022-10-11T07:06:37.365Z</updated>
+  <id>http://houvhaoyue.top/</id>
   
   <author>
     <name>HCY</name>
@@ -17,28 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>cmake学习</title>
-    <link href="http://example.com/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://example.com/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</id>
-    <published>2022-10-10T10:58:24.000Z</published>
-    <updated>2022-10-10T11:10:13.864Z</updated>
-    
-    
-    
-    
-    <category term="工具学习" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
-    
-    <category term="cmake" scheme="http://example.com/tags/cmake/"/>
-    
-  </entry>
-  
-  <entry>
     <title>makefile学习</title>
-    <link href="http://example.com/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://example.com/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</id>
+    <link href="http://houvhaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://houvhaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</id>
     <published>2022-10-10T10:58:24.000Z</published>
     <updated>2022-10-11T07:06:37.365Z</updated>
     
@@ -52,19 +33,38 @@
     
     
     
-    <category term="工具学习" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
+    <category term="工具学习" scheme="http://houvhaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    <category term="Linux" scheme="http://houvhaoyue.top/tags/Linux/"/>
     
-    <category term="Makefile" scheme="http://example.com/tags/Makefile/"/>
+    <category term="Makefile" scheme="http://houvhaoyue.top/tags/Makefile/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cmake学习</title>
+    <link href="http://houvhaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://houvhaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</id>
+    <published>2022-10-10T10:58:24.000Z</published>
+    <updated>2022-10-10T11:10:13.864Z</updated>
+    
+    
+    
+    
+    <category term="工具学习" scheme="http://houvhaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Linux" scheme="http://houvhaoyue.top/tags/Linux/"/>
+    
+    <category term="cmake" scheme="http://houvhaoyue.top/tags/cmake/"/>
     
   </entry>
   
   <entry>
     <title>shell命令学习</title>
-    <link href="http://example.com/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://example.com/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/</id>
+    <link href="http://houvhaoyue.top/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://houvhaoyue.top/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/</id>
     <published>2022-10-10T10:58:24.000Z</published>
     <updated>2022-10-11T07:06:08.340Z</updated>
     
@@ -78,12 +78,12 @@
     
     
     
-    <category term="工具学习" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
+    <category term="工具学习" scheme="http://houvhaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    <category term="Linux" scheme="http://houvhaoyue.top/tags/Linux/"/>
     
-    <category term="shell" scheme="http://example.com/tags/shell/"/>
+    <category term="shell" scheme="http://houvhaoyue.top/tags/shell/"/>
     
   </entry>
   
