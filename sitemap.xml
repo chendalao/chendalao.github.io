@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://houvhaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://houchaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2022-10-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://houvhaoyue.top/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://houchaoyue.top/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2022-10-11</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://houvhaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2022-10-10</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://houvhaoyue.top/categories/index.html</loc>
+    <loc>http://houchaoyue.top/categories/index.html</loc>
     
     <lastmod>2022-10-10</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://houvhaoyue.top/tags/index.html</loc>
+    <loc>http://houchaoyue.top/tags/index.html</loc>
     
     <lastmod>2022-10-10</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://houvhaoyue.top/</loc>
+    <loc>http://houchaoyue.top/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,28 +56,28 @@
 
   
   <url>
-    <loc>http://houvhaoyue.top/tags/Linux/</loc>
+    <loc>http://houchaoyue.top/tags/Linux/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://houvhaoyue.top/tags/Makefile/</loc>
+    <loc>http://houchaoyue.top/tags/cmake/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://houvhaoyue.top/tags/cmake/</loc>
+    <loc>http://houchaoyue.top/tags/Makefile/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://houvhaoyue.top/tags/shell/</loc>
+    <loc>http://houchaoyue.top/tags/shell/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -86,7 +86,7 @@
 
   
   <url>
-    <loc>http://houvhaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
