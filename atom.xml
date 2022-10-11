@@ -6,7 +6,7 @@
   <link href="http://houchaoyue.top/atom.xml" rel="self"/>
   
   <link href="http://houchaoyue.top/"/>
-  <updated>2022-10-11T09:43:10.727Z</updated>
+  <updated>2022-10-11T08:12:34.440Z</updated>
   <id>http://houchaoyue.top/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>shell命令学习</title>
-    <link href="http://houchaoyue.top/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://houchaoyue.top/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/</id>
-    <published>2022-10-10T10:58:24.000Z</published>
-    <updated>2022-10-11T09:43:10.727Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="一、工具包之间传输中间结果的方法"><a href="#一、工具包之间传输中间结果的方法" class="headerlink" title="一、工具包之间传输中间结果的方法"></a>一、工具包之间传输中间结果的方法</h4><p>1.<strong>使用Pipe</strong></p><p><strong>Pipe（管道）</strong>，是 Unix&#x2F;Linux 系统中一种比较常用的 IPC(Inter Process Communication) 。</p><p>$ls$ 和 $wc$ 分别是两个独立的进程。shell 会将 ls 的输出结果作为 $wc$ 的输入结果，然后再由$wc$ 把处理结果投放到终端上。</p><p><img src="/./images/h8nlv3997i.png"></p><p>上图很生动地描绘出这组命令的工作流程。pipe 就像一根圆管，ls 的输出内容流入到圆管的一端 (标准输出)。随后，内容一直流到圆管的另一端 (标准输入) 由 wc 接收。这跟圆管只接受 byte stream，也就是说消息内容是无边界的。</p><p>2.<strong>用grep</strong></p><p>3.<strong>用redirect</strong></p><h4 id="二、命令行工具"><a href="#二、命令行工具" class="headerlink" title="二、命令行工具"></a>二、命令行工具</h4><p><strong>1.ag</strong></p><p><strong>2.ripgrep</strong></p><p><strong>3.awk</strong></p><p><strong>4.sed</strong></p><h4 id="三、shell（Bash）Batch-Script"><a href="#三、shell（Bash）Batch-Script" class="headerlink" title="三、shell（Bash）Batch Script"></a>三、shell（Bash）Batch Script</h4>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h4 id=&quot;一、工具包之间传输中间结果的方法&quot;&gt;&lt;a href=&quot;#一、工具包之间传输中间结果的方法&quot; class=&quot;headerlink&quot; title=&quot;一、工具包之间传输中间结果的方法&quot;&gt;&lt;/a&gt;一、工具包之间传输中间结果的方法&lt;/h4&gt;&lt;p&gt;1.&lt;strong&gt;使用Pi</summary>
-      
-    
-    
-    
-    <category term="工具学习" scheme="http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
-    
-    <category term="shell" scheme="http://houchaoyue.top/tags/shell/"/>
-    
-  </entry>
   
   <entry>
     <title>makefile学习</title>
@@ -65,6 +39,32 @@
     <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
     
     <category term="Makefile" scheme="http://houchaoyue.top/tags/Makefile/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shell命令学习</title>
+    <link href="http://houchaoyue.top/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://houchaoyue.top/2022/10/10/shell%20%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/</id>
+    <published>2022-10-10T10:58:24.000Z</published>
+    <updated>2022-10-11T09:43:10.727Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="一、工具包之间传输中间结果的方法"><a href="#一、工具包之间传输中间结果的方法" class="headerlink" title="一、工具包之间传输中间结果的方法"></a>一、工具包之间传输中间结果的方法</h4><p>1.<strong>使用Pipe</strong></p><p><strong>Pipe（管道）</strong>，是 Unix&#x2F;Linux 系统中一种比较常用的 IPC(Inter Process Communication) 。</p><p>$ls$ 和 $wc$ 分别是两个独立的进程。shell 会将 ls 的输出结果作为 $wc$ 的输入结果，然后再由$wc$ 把处理结果投放到终端上。</p><p><img src="/./images/h8nlv3997i.png"></p><p>上图很生动地描绘出这组命令的工作流程。pipe 就像一根圆管，ls 的输出内容流入到圆管的一端 (标准输出)。随后，内容一直流到圆管的另一端 (标准输入) 由 wc 接收。这跟圆管只接受 byte stream，也就是说消息内容是无边界的。</p><p>2.<strong>用grep</strong></p><p>3.<strong>用redirect</strong></p><h4 id="二、命令行工具"><a href="#二、命令行工具" class="headerlink" title="二、命令行工具"></a>二、命令行工具</h4><p><strong>1.ag</strong></p><p><strong>2.ripgrep</strong></p><p><strong>3.awk</strong></p><p><strong>4.sed</strong></p><h4 id="三、shell（Bash）Batch-Script"><a href="#三、shell（Bash）Batch-Script" class="headerlink" title="三、shell（Bash）Batch Script"></a>三、shell（Bash）Batch Script</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;一、工具包之间传输中间结果的方法&quot;&gt;&lt;a href=&quot;#一、工具包之间传输中间结果的方法&quot; class=&quot;headerlink&quot; title=&quot;一、工具包之间传输中间结果的方法&quot;&gt;&lt;/a&gt;一、工具包之间传输中间结果的方法&lt;/h4&gt;&lt;p&gt;1.&lt;strong&gt;使用Pi</summary>
+      
+    
+    
+    
+    <category term="工具学习" scheme="http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
+    
+    <category term="shell" scheme="http://houchaoyue.top/tags/shell/"/>
     
   </entry>
   
