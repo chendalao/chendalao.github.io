@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>cmake学习</title>
+      <link href="/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+            <tag> cmake </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>makefile学习</title>
       <link href="/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/"/>
       <url>/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</url>
@@ -50,33 +77,6 @@
             <tag> Linux </tag>
             
             <tag> shell </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>cmake学习</title>
-      <link href="/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/"/>
-      <url>/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 工具学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Linux </tag>
-            
-            <tag> cmake </tag>
             
         </tags>
       
