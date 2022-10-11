@@ -43,6 +43,25 @@
   </entry>
   
   <entry>
+    <title>cmake学习</title>
+    <link href="http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</id>
+    <published>2022-10-10T10:58:24.000Z</published>
+    <updated>2022-10-11T07:30:04.253Z</updated>
+    
+    
+    
+    
+    <category term="工具学习" scheme="http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
+    
+    <category term="cmake" scheme="http://houchaoyue.top/tags/cmake/"/>
+    
+  </entry>
+  
+  <entry>
     <title>makefile学习</title>
     <link href="http://houchaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/"/>
     <id>http://houchaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</id>
@@ -65,25 +84,6 @@
     <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
     
     <category term="Makefile" scheme="http://houchaoyue.top/tags/Makefile/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>cmake学习</title>
-    <link href="http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</id>
-    <published>2022-10-10T10:58:24.000Z</published>
-    <updated>2022-10-11T07:30:04.253Z</updated>
-    
-    
-    
-    
-    <category term="工具学习" scheme="http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
-    
-    <category term="cmake" scheme="http://houchaoyue.top/tags/cmake/"/>
     
   </entry>
   
