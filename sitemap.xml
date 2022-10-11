@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/shell/</loc>
+    <loc>http://example.com/tags/Makefile/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -77,7 +77,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Makefile/</loc>
+    <loc>http://example.com/tags/shell/</loc>
     <lastmod>2022-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
