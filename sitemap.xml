@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://houchaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://houchaoyue.top/2022/10/12/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter6/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>http://houchaoyue.top/2022/10/12/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E9%AA%8C2/</loc>
+    
+    <lastmod>2022-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://houchaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -72,7 +81,14 @@
   </url>
   
   <url>
-    <loc>http://houchaoyue.top/tags/shell/</loc>
+    <loc>http://houchaoyue.top/tags/cmake/</loc>
+    <lastmod>2022-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://houchaoyue.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -80,6 +96,13 @@
   
   <url>
     <loc>http://houchaoyue.top/tags/Makefile/</loc>
+    <lastmod>2022-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://houchaoyue.top/tags/shell/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -99,17 +122,17 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>http://houchaoyue.top/tags/cmake/</loc>
+    <loc>http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://houchaoyue.top/categories/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
