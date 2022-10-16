@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-10-16</lastmod>
+  </url>
+  <url>
     <loc>http://houchaoyue.top/2022/10/13/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter8/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
@@ -18,10 +22,6 @@
   </url>
   <url>
     <loc>http://houchaoyue.top/2022/10/10/MakeFile%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-10-16</lastmod>
-  </url>
-  <url>
-    <loc>http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   <url>
