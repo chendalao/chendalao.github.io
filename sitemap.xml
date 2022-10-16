@@ -120,13 +120,6 @@
   </url>
   
   <url>
-    <loc>http://houchaoyue.top/tags/shell/</loc>
-    <lastmod>2022-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://houchaoyue.top/tags/ahnu%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C/</loc>
     <lastmod>2022-10-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -135,6 +128,13 @@
   
   <url>
     <loc>http://houchaoyue.top/tags/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2022-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://houchaoyue.top/tags/shell/</loc>
     <lastmod>2022-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
