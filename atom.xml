@@ -6,7 +6,7 @@
   <link href="http://houchaoyue.top/atom.xml" rel="self"/>
   
   <link href="http://houchaoyue.top/"/>
-  <updated>2022-10-16T12:07:19.232Z</updated>
+  <updated>2022-10-16T12:18:32.462Z</updated>
   <id>http://houchaoyue.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://houchaoyue.top/2022/10/13/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter8/"/>
     <id>http://houchaoyue.top/2022/10/13/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter8/</id>
     <published>2022-10-13T13:25:58.000Z</published>
-    <updated>2022-10-16T12:07:19.232Z</updated>
+    <updated>2022-10-16T12:18:32.462Z</updated>
     
     <content type="html"><![CDATA[<p><img src="%E6%88%AA%E5%B1%8F%E5%9B%BE%E7%89%87.png"></p><p><img src="%E6%88%AA%E5%B1%8F%E5%9B%BE%E7%89%871.png"></p><p><a href="https://github.com/chendalao/WDhomework/blob/main/ex3/ex3-neural%20network.ipynb">实验三地址</a></p>]]></content>
     
@@ -47,7 +47,7 @@
     <link href="http://houchaoyue.top/2022/10/13/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter7/"/>
     <id>http://houchaoyue.top/2022/10/13/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter7/</id>
     <published>2022-10-13T10:50:46.000Z</published>
-    <updated>2022-10-16T12:06:33.989Z</updated>
+    <updated>2022-10-16T12:17:56.229Z</updated>
     
     <content type="html"><![CDATA[<p><img src="20221013_102908000_iOS.png"></p><p><img src="20221013_102918000_iOS.png" alt="20221013_102918000_iOS"></p><p><img src="20221013_102925000_iOS.png" alt="20221013_102925000_iOS"></p><p><a href="https://github.com/chendalao/WDhomework/tree/main/ex2-logistic%20regression">ex2</a></p>]]></content>
     
@@ -73,7 +73,7 @@
     <link href="http://houchaoyue.top/2022/10/12/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter6/"/>
     <id>http://houchaoyue.top/2022/10/12/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter6/</id>
     <published>2022-10-12T11:55:56.000Z</published>
-    <updated>2022-10-16T12:06:10.891Z</updated>
+    <updated>2022-10-16T12:17:13.631Z</updated>
     
     <content type="html"><![CDATA[<p><img src="20221013_102816000_iOS.png"></p><p><img src="20221013_102835000_iOS.png"></p><p><img src="20221013_102844000_iOS.png"></p><p><img src="20221013_102852000_iOS.png"></p><p><a href="https://github.com/chendalao/WDhomework/tree/main/ex2-logistic%20regression">ex2地址</a></p>]]></content>
     
@@ -100,7 +100,7 @@
     <link href="http://houchaoyue.top/2022/10/12/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E9%AA%8C2/"/>
     <id>http://houchaoyue.top/2022/10/12/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E9%AA%8C2/</id>
     <published>2022-10-12T09:57:16.000Z</published>
-    <updated>2022-10-16T12:03:58.833Z</updated>
+    <updated>2022-10-16T12:15:54.176Z</updated>
     
     <content type="html"><![CDATA[<h4 id="1、编绎执行下列汇编程序sy1-S，要在开发板上执行。程序执行后返回到调用处，使用uboot的md-0x20009000-1命令查看0x20009000处的值。理解程序如何返回的调用处的，程序调用要做哪些工作。如果省去最后mov-pc，lr指令，则会出现什么情况，为什么？"><a href="#1、编绎执行下列汇编程序sy1-S，要在开发板上执行。程序执行后返回到调用处，使用uboot的md-0x20009000-1命令查看0x20009000处的值。理解程序如何返回的调用处的，程序调用要做哪些工作。如果省去最后mov-pc，lr指令，则会出现什么情况，为什么？" class="headerlink" title="1、编绎执行下列汇编程序sy1.S，要在开发板上执行。程序执行后返回到调用处，使用uboot的md 0x20009000 1命令查看0x20009000处的值。理解程序如何返回的调用处的，程序调用要做哪些工作。如果省去最后mov pc，lr指令，则会出现什么情况，为什么？"></a>1、编绎执行下列汇编程序sy1.S，要在开发板上执行。程序执行后返回到调用处，使用uboot的md 0x20009000 1命令查看0x20009000处的值。理解程序如何返回的调用处的，程序调用要做哪些工作。如果省去最后mov pc，lr指令，则会出现什么情况，为什么？</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">.text</span><br><span class="line">.global _start</span><br><span class="line">_start:</span><br><span class="line">mov r0,#0x04</span><br><span class="line">mov r1,#0x03</span><br><span class="line">    add r2,r0,r1</span><br><span class="line">    Ldr r3,=0x20009000</span><br><span class="line">    str r2,[r3]</span><br><span class="line">    mov pc,lr</span><br><span class="line">.end</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><strong>如果省去最后的mov pc lr， 程序将无法运行，将会造成阻塞</strong></p><h4 id="2、将sy1程序下载到0x20007000处，编写汇编程序sy2-S，调用sy1，并能正确返回。"><a href="#2、将sy1程序下载到0x20007000处，编写汇编程序sy2-S，调用sy1，并能正确返回。" class="headerlink" title="2、将sy1程序下载到0x20007000处，编写汇编程序sy2.S，调用sy1，并能正确返回。"></a>2、将sy1程序下载到0x20007000处，编写汇编程序sy2.S，调用sy1，并能正确返回。</h4><h4 id="3-编写程序sy3-S使用循环计算1-2-…-100-并将结果存入0x20009000处-0x13ba"><a href="#3-编写程序sy3-S使用循环计算1-2-…-100-并将结果存入0x20009000处-0x13ba" class="headerlink" title="3. 编写程序sy3.S使用循环计算1+2+…+100 并将结果存入0x20009000处(0x13ba)"></a>3. 编写程序sy3.S使用循环计算1+2+…+100 并将结果存入0x20009000处(0x13ba)</h4><p><strong>代码：</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">.text</span><br><span class="line">.global _start</span><br><span class="line">_start:</span><br><span class="line">        mov r1,#1</span><br><span class="line">        mov r0,#0</span><br><span class="line">for:</span><br><span class="line">        cmp r1,#100</span><br><span class="line">        bgt endfor</span><br><span class="line">        add r0,r0,r1</span><br><span class="line">        add r1,r1,#1</span><br><span class="line">        b for</span><br><span class="line">endfor:</span><br><span class="line">        ldr r2,=0x20009000</span><br><span class="line">        str r0,[r2]</span><br><span class="line">        mov pc,lr</span><br><span class="line">.end</span><br><span class="line"></span><br></pre></td></tr></table></figure><p><strong>在编写此程序时，主要注意for循环的编写。在对for循环进行编写的时候，使用了cmp判断语句，除此之外还有ldr r2, &#x3D;0x20009000这条指令，这条指令使用了伪立即数（因为立即数是有一个范围的，所以当要赋的数字超过立即数的范围的时候，我们将使用伪立即数）。除此之外，我们还要注意将lr中的值赋值给pc，使得程序能够正确运行，其中lr存放的是子程序的返回地址。</strong></p><h4 id="4-编写程序sy4-S计算-1-（1-2）-（1-2-3）-…-（1-2-20），并将结果存入0x20009000处，要编写子程序addn-计算1-2-n，主程序调用该子程序最终完成计算-结果-0x604-。"><a href="#4-编写程序sy4-S计算-1-（1-2）-（1-2-3）-…-（1-2-20），并将结果存入0x20009000处，要编写子程序addn-计算1-2-n，主程序调用该子程序最终完成计算-结果-0x604-。" class="headerlink" title="4. 编写程序sy4.S计算 1+（1+2）+（1+2+3）+….+（1+2+..+20），并将结果存入0x20009000处，要编写子程序addn 计算1+2+..n，主程序调用该子程序最终完成计算( 结果: 0x604 )。"></a>4. 编写程序sy4.S计算 1+（1+2）+（1+2+3）+….+（1+2+..+20），并将结果存入0x20009000处，要编写子程序addn 计算1+2+..n，主程序调用该子程序最终完成计算( 结果: 0x604 )。</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line">.global _start</span><br><span class="line">_start:</span><br><span class="line">        stmfd sp!,&#123;lr&#125;</span><br><span class="line">        mov R4,#0</span><br><span class="line">        mov R5,#1</span><br><span class="line">for2:</span><br><span class="line">        cmp R5,#20</span><br><span class="line">        bgt endfor2</span><br><span class="line">        mov R0,R5</span><br><span class="line">        bl addn</span><br><span class="line">        add R4,R4,R0</span><br><span class="line">        add R5,R5,#1</span><br><span class="line">        b for2</span><br><span class="line">endfor2:</span><br><span class="line">        ldr R0,=0x20009000</span><br><span class="line">        str R4,[R0]</span><br><span class="line">        ldmfd sp!,&#123;lr&#125;</span><br><span class="line">        mov pc,lr</span><br><span class="line">addn:</span><br><span class="line">        mov R1,#0</span><br><span class="line">for:</span><br><span class="line">        cmp R0,#1</span><br><span class="line">        blt endfor</span><br><span class="line">        add R1,R1,R0</span><br><span class="line">        sub R0,R0,#1</span><br><span class="line">        b for</span><br><span class="line">endfor:</span><br><span class="line">        mov R0,R1</span><br><span class="line">        mov pc,lr</span><br><span class="line">.end</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -150,11 +150,30 @@
   </entry>
   
   <entry>
+    <title>cmake学习</title>
+    <link href="http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</id>
+    <published>2022-10-10T10:58:24.000Z</published>
+    <updated>2022-10-16T12:12:53.614Z</updated>
+    
+    
+    
+    
+    <category term="工具学习" scheme="http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
+    
+    <category term="cmake" scheme="http://houchaoyue.top/tags/cmake/"/>
+    
+  </entry>
+  
+  <entry>
     <title>shell命令学习</title>
     <link href="http://houchaoyue.top/2022/10/10/shell%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/"/>
     <id>http://houchaoyue.top/2022/10/10/shell%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/</id>
     <published>2022-10-10T10:58:24.000Z</published>
-    <updated>2022-10-16T12:05:43.929Z</updated>
+    <updated>2022-10-16T12:16:46.533Z</updated>
     
     <content type="html"><![CDATA[<h4 id="一、工具包之间传输中间结果的方法"><a href="#一、工具包之间传输中间结果的方法" class="headerlink" title="一、工具包之间传输中间结果的方法"></a>一、工具包之间传输中间结果的方法</h4><p>1.<strong>使用Pipe</strong></p><p><strong>Pipe（管道）</strong>，是 Unix&#x2F;Linux 系统中一种比较常用的 IPC(Inter Process Communication) 。</p><p>$ls$ 和 $wc$ 分别是两个独立的进程。shell 会将 ls 的输出结果作为 $wc$ 的输入结果，然后再由$wc$ 把处理结果投放到终端上。</p><p><img src="h8nlv3997i.png"></p><p>上图很生动地描绘出这组命令的工作流程。pipe 就像一根圆管，ls 的输出内容流入到圆管的一端 (标准输出)。随后，内容一直流到圆管的另一端 (标准输入) 由 wc 接收。这跟圆管只接受 byte stream，也就是说消息内容是无边界的。</p><p>2.<strong>用grep</strong></p><p>3.<strong>用redirect</strong></p><h4 id="二、命令行工具"><a href="#二、命令行工具" class="headerlink" title="二、命令行工具"></a>二、命令行工具</h4><p><strong>1.ag</strong></p><p><strong>2.ripgrep</strong></p><p><strong>3.awk</strong></p><p><strong>4.sed</strong></p><h4 id="三、shell（Bash）Batch-Script"><a href="#三、shell（Bash）Batch-Script" class="headerlink" title="三、shell（Bash）Batch Script"></a>三、shell（Bash）Batch Script</h4>]]></content>
     
@@ -172,25 +191,6 @@
     <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
     
     <category term="shell" scheme="http://houchaoyue.top/tags/shell/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>cmake学习</title>
-    <link href="http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://houchaoyue.top/2022/10/10/cmake%E5%AD%A6%E4%B9%A0/</id>
-    <published>2022-10-10T10:58:24.000Z</published>
-    <updated>2022-10-16T12:12:53.614Z</updated>
-    
-    
-    
-    
-    <category term="工具学习" scheme="http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="Linux" scheme="http://houchaoyue.top/tags/Linux/"/>
-    
-    <category term="cmake" scheme="http://houchaoyue.top/tags/cmake/"/>
     
   </entry>
   
