@@ -6,7 +6,7 @@
   <link href="http://houchaoyue.top/atom.xml" rel="self"/>
   
   <link href="http://houchaoyue.top/"/>
-  <updated>2022-10-17T10:45:58.199Z</updated>
+  <updated>2022-10-17T12:38:11.397Z</updated>
   <id>http://houchaoyue.top/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WD机器学习chapter10</title>
+    <link href="http://houchaoyue.top/2022/10/17/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter10/"/>
+    <id>http://houchaoyue.top/2022/10/17/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter10/</id>
+    <published>2022-10-17T12:35:15.000Z</published>
+    <updated>2022-10-17T12:38:11.397Z</updated>
+    
+    
+    
+    
+    <category term="WD机器学习" scheme="http://houchaoyue.top/categories/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="机器学习" scheme="http://houchaoyue.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>嵌入式作业第三章_3</title>
