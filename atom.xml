@@ -6,7 +6,7 @@
   <link href="http://houchaoyue.top/atom.xml" rel="self"/>
   
   <link href="http://houchaoyue.top/"/>
-  <updated>2022-10-16T14:29:32.750Z</updated>
+  <updated>2022-10-17T08:05:58.240Z</updated>
   <id>http://houchaoyue.top/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>嵌入式作业第三章_3</title>
+    <link href="http://houchaoyue.top/2022/10/17/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A%E7%AC%AC%E4%B8%89%E7%AB%A0-3/"/>
+    <id>http://houchaoyue.top/2022/10/17/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A%E7%AC%AC%E4%B8%89%E7%AB%A0-3/</id>
+    <published>2022-10-17T07:25:59.000Z</published>
+    <updated>2022-10-17T08:05:58.240Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="1-指令机器码为-EA000001，代表跳转指令，执行该指令后，则跳转到它"><a href="#1-指令机器码为-EA000001，代表跳转指令，执行该指令后，则跳转到它" class="headerlink" title="1.指令机器码为 EA000001，代表跳转指令，执行该指令后，则跳转到它"></a>1.指令机器码为 EA000001，代表跳转指令，执行该指令后，则跳转到它</h5><h5 id="2-指令代码如下："><a href="#2-指令代码如下：" class="headerlink" title="2.指令代码如下："></a>2.指令代码如下：</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">b loop</span><br><span class="line">b loop</span><br><span class="line">loop:</span><br><span class="line">mov r0,#3</span><br></pre></td></tr></table></figure><h5 id="则-第1条-指令-和第2条指令编译后的机器码（）"><a href="#则-第1条-指令-和第2条指令编译后的机器码（）" class="headerlink" title="则 第1条 指令 和第2条指令编译后的机器码（）"></a>则 第1条 指令 和第2条指令编译后的机器码（）</h5><blockquote><ul><li>A. 相同</li><li>B. 第2条指令的低24位值比第一条指令的低24位值（有符号数）小1</li><li>C. 第2条指令的低24位值比第一条指令的低24位值大2</li><li>D. 第2条指令的低24位值比第一条指令的低24位值大4</li></ul></blockquote><h6 id><a href="#" class="headerlink" title></a></h6>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h5 id=&quot;1-指令机器码为-EA000001，代表跳转指令，执行该指令后，则跳转到它&quot;&gt;&lt;a href=&quot;#1-指令机器码为-EA000001，代表跳转指令，执行该指令后，则跳转到它&quot; class=&quot;headerlink&quot; title=&quot;1.指令机器码为 EA000001，</summary>
+      
+    
+    
+    
+    <category term="嵌入式作业" scheme="http://houchaoyue.top/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A/"/>
+    
+    
+    <category term="嵌入式课本作业" scheme="http://houchaoyue.top/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%AF%BE%E6%9C%AC%E4%BD%9C%E4%B8%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>WD机器学习chapter9</title>
@@ -86,9 +110,9 @@
     <link href="http://houchaoyue.top/2022/10/12/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter6/"/>
     <id>http://houchaoyue.top/2022/10/12/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter6/</id>
     <published>2022-10-12T11:55:56.000Z</published>
-    <updated>2022-10-16T14:28:24.072Z</updated>
+    <updated>2022-10-17T08:04:24.238Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="20221013_102816000_iOS.png"></p><p><img src="20221013_102835000_iOS.png"></p><p><img src="20221013_102844000_iOS.png"></p><p><img src="20221013_102852000_iOS.png"></p><p><a href="https://github.com/chendalao/WDhomework/tree/main/ex2-logistic%20regression">ex2地址</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="20221013_102816000_iOS.png"></p><p><img src="20221013_102835000_iOS.png"></p><p><img src="20221013_102844000_iOS.png"></p><p><img src="20221013_102852000_iOS.png"></p><p><a href="https://github.com/chendalao/WDhomework/tree/main/ex2-logistic%20regression">实验2代码地址</a></p>]]></content>
     
     
       
