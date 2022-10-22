@@ -4,11 +4,62 @@
   
     
     <entry>
+      <title>嵌入式作业第四章1-3</title>
+      <link href="/2022/10/22/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A%E7%AC%AC%E5%9B%9B%E7%AB%A01-3/"/>
+      <url>/2022/10/22/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A%E7%AC%AC%E5%9B%9B%E7%AB%A01-3/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 嵌入式作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 嵌入式课本作业 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>opencv 图像入门</title>
+      <link href="/2022/10/19/opencv-%E5%9B%BE%E5%83%8F%E5%85%A5%E9%97%A8/"/>
+      <url>/2022/10/19/opencv-%E5%9B%BE%E5%83%8F%E5%85%A5%E9%97%A8/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>opencv-Linux-配置</title>
+      <link href="/2022/10/18/opencv-Linux-%E9%85%8D%E7%BD%AE/"/>
+      <url>/2022/10/18/opencv-Linux-%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h3 id="一、无需编译的配置"><a href="#一、无需编译的配置" class="headerlink" title="一、无需编译的配置"></a>一、无需编译的配置</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install python3-opencv</span><br></pre></td></tr></table></figure><p><strong>接着进入python环境查看cv2的包是否安装成功，是否能够成功导入。</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2 <span class="keyword">as</span> cv</span><br><span class="line"><span class="built_in">print</span>(cv.__version__)</span><br></pre></td></tr></table></figure><h3 id="二、IPython的安装"><a href="#二、IPython的安装" class="headerlink" title="二、IPython的安装"></a>二、IPython的安装</h3><h5 id="只需在相应的环境下安装ipython即可运行"><a href="#只需在相应的环境下安装ipython即可运行" class="headerlink" title="只需在相应的环境下安装ipython即可运行"></a>只需在相应的环境下安装ipython即可运行</h5><h3 id="三、conda使用"><a href="#三、conda使用" class="headerlink" title="三、conda使用"></a>三、conda使用</h3><h5 id="1-创建新环境"><a href="#1-创建新环境" class="headerlink" title="1.创建新环境"></a>1.创建新环境</h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda create -n myenv python</span><br></pre></td></tr></table></figure><h5 id="2-安装python包"><a href="#2-安装python包" class="headerlink" title="2.安装python包"></a>2.安装python包</h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 进入相应的环境之后再使用</span></span><br><span class="line">pip install ...</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>WD机器学习chapter10</title>
       <link href="/2022/10/17/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter10/"/>
       <url>/2022/10/17/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter10/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="Chapter10-决定下一步做什么"><a href="#Chapter10-决定下一步做什么" class="headerlink" title="Chapter10.决定下一步做什么"></a>Chapter10.决定下一步做什么</h3><h4 id="一、模型评估，如何对算法的评估"><a href="#一、模型评估，如何对算法的评估" class="headerlink" title="一、模型评估，如何对算法的评估"></a>一、模型评估，如何对算法的评估</h4><h5 id="1-过拟合、欠拟合问题的评估"><a href="#1-过拟合、欠拟合问题的评估" class="headerlink" title="1.过拟合、欠拟合问题的评估"></a>1.过拟合、欠拟合问题的评估</h5><p>​<strong>在特征少的时候，可以通过将训练集中的数据通过图形表示出来，观察拟合得到的曲线是否过于贴合训练所用的数据集，从而得出训练得到的模型是否为过拟合or欠拟合。但是在特征很多的时候，这种画图的方法就行不通了。</strong></p><h6 id="方法1：将训练的数据集分为TrainingSet和TestSet"><a href="#方法1：将训练的数据集分为TrainingSet和TestSet" class="headerlink" title="方法1：将训练的数据集分为TrainingSet和TestSet"></a>方法1：将训练的数据集分为TrainingSet和TestSet</h6><p>​<strong>常见的分割比例为7（TrainingSet）:3（TEstSet）</strong></p><p>步骤：</p><p>​（1）将训练集分组</p><p>​（2）用训练集将参数进行训练</p><p>​（3）将训练的到的参数代入到测试集中计算误差，对于线性回归来说误差公式为：<br>$$<br>J_{test} &#x3D; {1 \over 2 * m_{test}}{\sum_{i &#x3D; 1}^{M_{test}}(h_{\theta}(x_{test}^i) - y_{test}^i)^2}<br>$$<br>logistic回归的误差函数也很相似。<strong>logistic回归的误差又被称为（0&#x2F;1 misclassification error）</strong></p>]]></content>
       
       
       <categories>
