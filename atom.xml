@@ -6,7 +6,7 @@
   <link href="http://houchaoyue.top/atom.xml" rel="self"/>
   
   <link href="http://houchaoyue.top/"/>
-  <updated>2022-10-22T01:41:25.136Z</updated>
+  <updated>2022-10-24T02:59:32.310Z</updated>
   <id>http://houchaoyue.top/</id>
   
   <author>
@@ -21,8 +21,15 @@
     <link href="http://houchaoyue.top/2022/10/22/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A%E7%AC%AC%E5%9B%9B%E7%AB%A01-3/"/>
     <id>http://houchaoyue.top/2022/10/22/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A%E7%AC%AC%E5%9B%9B%E7%AB%A01-3/</id>
     <published>2022-10-22T01:30:54.000Z</published>
-    <updated>2022-10-22T01:41:25.136Z</updated>
+    <updated>2022-10-24T02:59:32.310Z</updated>
     
+    <content type="html"><![CDATA[<h5 id="1-单选题-下面关于伪指令的说法正确的是（A）。"><a href="#1-单选题-下面关于伪指令的说法正确的是（A）。" class="headerlink" title="1. (单选题)下面关于伪指令的说法正确的是（A）。"></a>1. (单选题)下面关于伪指令的说法正确的是（A）。</h5><blockquote><ul><li>A. 伪指令是没有对应的机器的指令</li><li>B. 有相对应的机器码</li><li>C. 控制机器操作的指令</li><li>D. 可以被CPU识别</li></ul></blockquote><h5 id="2-set-x-15则以下指令正确的是（B-。"><a href="#2-set-x-15则以下指令正确的是（B-。" class="headerlink" title="2.set x,15则以下指令正确的是（B)。"></a>2.set x,15则以下指令正确的是（B)。</h5><blockquote><ul><li>A. mov r0,x</li><li>B. mov r0,#x</li><li>C. mov r0,[x]</li><li>D. ldr r0,[x]</li></ul></blockquote><h5 id="3-与-equ-x-5-相同功能的是（）"><a href="#3-与-equ-x-5-相同功能的是（）" class="headerlink" title="3.与 .equ x, 5 相同功能的是（）"></a>3.与 .equ x, 5 相同功能的是（）</h5><blockquote><ul><li>A. .set x, 5</li><li>B. .set x,#5</li><li>C. x&#x3D;5</li><li>D. .set x 5</li></ul></blockquote><h5 id="4-short-0x11-0x22-0x33-该指令定义后占用多大的内存空间（C）。"><a href="#4-short-0x11-0x22-0x33-该指令定义后占用多大的内存空间（C）。" class="headerlink" title="4. short 0x11,0x22,0x33 该指令定义后占用多大的内存空间（C）。"></a>4. short 0x11,0x22,0x33 该指令定义后占用多大的内存空间（C）。</h5><blockquote><ul><li>A. 3B</li><li>B. 4B</li><li>C. 6B</li><li>D. 8B</li></ul></blockquote><h5 id="5-space-12-0x1122-开辟了-B-字节的内存。"><a href="#5-space-12-0x1122-开辟了-B-字节的内存。" class="headerlink" title="5..space 12,0x1122 开辟了(B)字节的内存。"></a>5..space 12,0x1122 开辟了(B)字节的内存。</h5><blockquote><ul><li>A. 24</li><li>B. 12</li><li>C. 6</li><li>D. 32</li></ul></blockquote><h5 id="6-space-4-0x1234-则填充内存的内容是（C）。"><a href="#6-space-4-0x1234-则填充内存的内容是（C）。" class="headerlink" title="6. .space 4,0x1234 则填充内存的内容是（C）。"></a>6. .space 4,0x1234 则填充内存的内容是（C）。</h5><blockquote><ul><li>A. 0x1234</li><li>B. 0x12121212</li><li>C. 0x34343434</li><li>D. 以上都不对</li></ul></blockquote><h5 id="7-string-与下面哪条伪指令功能相同（A）。"><a href="#7-string-与下面哪条伪指令功能相同（A）。" class="headerlink" title="7..string 与下面哪条伪指令功能相同（A）。"></a>7..string 与下面哪条伪指令功能相同（A）。</h5><blockquote><ul><li>A. .asciz</li><li>B. .ascii</li><li>C. .ascstr</li><li>D. .str</li></ul></blockquote><h5 id="8-string-“hello”占用（A）字节的空间。"><a href="#8-string-“hello”占用（A）字节的空间。" class="headerlink" title="8. .string “hello”占用（A）字节的空间。"></a>8. .string “hello”占用（A）字节的空间。</h5><blockquote><ul><li>A. 5</li><li>B. 6</li><li>C. 4</li><li>D. 8</li></ul></blockquote><h5 id="9-adr-指令用于（D）。"><a href="#9-adr-指令用于（D）。" class="headerlink" title="9.adr 指令用于（D）。"></a>9.adr 指令用于（D）。</h5><blockquote><ul><li>A. 取标签的偏移量</li><li>B. 取标签代表的地址内容</li><li>C. 可以将一个常数加载到寄存器中</li><li>D. 取标签所代表的地址</li></ul></blockquote><h5 id="10-当以字对齐时，adrl能取到地址相对于pc的偏移量范围是（A）。"><a href="#10-当以字对齐时，adrl能取到地址相对于pc的偏移量范围是（A）。" class="headerlink" title="10.当以字对齐时，adrl能取到地址相对于pc的偏移量范围是（A）。"></a>10.当以字对齐时，adrl能取到地址相对于pc的偏移量范围是（A）。</h5><blockquote><ul><li>A. -256KB~256KB</li><li>B. -64KB~64KB</li><li>C. -128KB~128KB</li><li>D. -1MB~1MB</li></ul></blockquote><h5 id="11-指令ldr-r0，-x3D-label2-A"><a href="#11-指令ldr-r0，-x3D-label2-A" class="headerlink" title="11.指令ldr r0，&#x3D;label2(A)"></a>11.指令ldr r0，&#x3D;label2(A)</h5><blockquote><ul><li>A. 将label2所代表的地址加载到r0中，本身对偏移量没有限制。</li><li>B. 取label2所代表的地址内容</li><li>C. 相对于pc，对偏移量有大小限制</li><li>D. 以上都不对</li></ul></blockquote><h5 id="12-bss-用于（A）。"><a href="#12-bss-用于（A）。" class="headerlink" title="12..bss 用于（A）。"></a>12..bss 用于（A）。</h5><blockquote><ul><li>A. 一般存放未初始化的全局变量，静态变量。</li><li>B. 未初始化的自动变量</li><li>C. 初始化的全局变量</li><li>D. 函数参数</li></ul></blockquote><h5 id="13-data-段用于存放（A）。"><a href="#13-data-段用于存放（A）。" class="headerlink" title="13..data 段用于存放（A）。"></a>13..data 段用于存放（A）。</h5><blockquote><ul><li>A. 初始化的静态和全局变量。</li><li>B. 未初始化的静态和全局变量。</li><li>C. 可以存放已初始化的自动变量</li><li>D. 以上都不对</li></ul></blockquote><h5 id="14-函数参选，局部变量一般存放于（B）。"><a href="#14-函数参选，局部变量一般存放于（B）。" class="headerlink" title="14.函数参选，局部变量一般存放于（B）。"></a>14.函数参选，局部变量一般存放于（B）。</h5><blockquote><ul><li>A. 堆中</li><li>B. 堆栈中</li><li>C. data段中</li><li>D. bss段中</li></ul></blockquote><h5 id="15-不可用于调用子程序fun的代码是（D）。"><a href="#15-不可用于调用子程序fun的代码是（D）。" class="headerlink" title="15.不可用于调用子程序fun的代码是（D）。"></a>15.不可用于调用子程序fun的代码是（D）。</h5><blockquote><ul><li><p>A. bl fun</p></li><li><p>B.</p><p>  mov lr,pc</p><p>  b fun</p></li><li><p>C.</p><p>  mov lr,pc</p><p>  ldr pc,&#x3D;fun</p></li><li><p>D. b fun</p></li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h5 id=&quot;1-单选题-下面关于伪指令的说法正确的是（A）。&quot;&gt;&lt;a href=&quot;#1-单选题-下面关于伪指令的说法正确的是（A）。&quot; class=&quot;headerlink&quot; title=&quot;1. (单选题)下面关于伪指令的说法正确的是（A）。&quot;&gt;&lt;/a&gt;1. (单选题)下面关于</summary>
+      
     
     
     
@@ -38,7 +45,7 @@
     <link href="http://houchaoyue.top/2022/10/19/opencv-%E5%9B%BE%E5%83%8F%E5%85%A5%E9%97%A8/"/>
     <id>http://houchaoyue.top/2022/10/19/opencv-%E5%9B%BE%E5%83%8F%E5%85%A5%E9%97%A8/</id>
     <published>2022-10-19T12:51:05.000Z</published>
-    <updated>2022-10-19T12:51:40.841Z</updated>
+    <updated>2022-10-22T01:41:50.439Z</updated>
     
     
     
@@ -51,7 +58,7 @@
     <link href="http://houchaoyue.top/2022/10/18/opencv-Linux-%E9%85%8D%E7%BD%AE/"/>
     <id>http://houchaoyue.top/2022/10/18/opencv-Linux-%E9%85%8D%E7%BD%AE/</id>
     <published>2022-10-18T13:16:09.000Z</published>
-    <updated>2022-10-18T13:49:23.193Z</updated>
+    <updated>2022-10-22T01:41:50.438Z</updated>
     
     <content type="html"><![CDATA[<h3 id="一、无需编译的配置"><a href="#一、无需编译的配置" class="headerlink" title="一、无需编译的配置"></a>一、无需编译的配置</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install python3-opencv</span><br></pre></td></tr></table></figure><p><strong>接着进入python环境查看cv2的包是否安装成功，是否能够成功导入。</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2 <span class="keyword">as</span> cv</span><br><span class="line"><span class="built_in">print</span>(cv.__version__)</span><br></pre></td></tr></table></figure><h3 id="二、IPython的安装"><a href="#二、IPython的安装" class="headerlink" title="二、IPython的安装"></a>二、IPython的安装</h3><h5 id="只需在相应的环境下安装ipython即可运行"><a href="#只需在相应的环境下安装ipython即可运行" class="headerlink" title="只需在相应的环境下安装ipython即可运行"></a>只需在相应的环境下安装ipython即可运行</h5><h3 id="三、conda使用"><a href="#三、conda使用" class="headerlink" title="三、conda使用"></a>三、conda使用</h3><h5 id="1-创建新环境"><a href="#1-创建新环境" class="headerlink" title="1.创建新环境"></a>1.创建新环境</h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda create -n myenv python</span><br></pre></td></tr></table></figure><h5 id="2-安装python包"><a href="#2-安装python包" class="headerlink" title="2.安装python包"></a>2.安装python包</h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 进入相应的环境之后再使用</span></span><br><span class="line">pip install ...</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -71,9 +78,9 @@
     <link href="http://houchaoyue.top/2022/10/17/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter10/"/>
     <id>http://houchaoyue.top/2022/10/17/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter10/</id>
     <published>2022-10-17T12:35:15.000Z</published>
-    <updated>2022-10-17T13:02:25.772Z</updated>
+    <updated>2022-10-24T02:37:42.754Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Chapter10-决定下一步做什么"><a href="#Chapter10-决定下一步做什么" class="headerlink" title="Chapter10.决定下一步做什么"></a>Chapter10.决定下一步做什么</h3><h4 id="一、模型评估，如何对算法的评估"><a href="#一、模型评估，如何对算法的评估" class="headerlink" title="一、模型评估，如何对算法的评估"></a>一、模型评估，如何对算法的评估</h4><h5 id="1-过拟合、欠拟合问题的评估"><a href="#1-过拟合、欠拟合问题的评估" class="headerlink" title="1.过拟合、欠拟合问题的评估"></a>1.过拟合、欠拟合问题的评估</h5><p>​<strong>在特征少的时候，可以通过将训练集中的数据通过图形表示出来，观察拟合得到的曲线是否过于贴合训练所用的数据集，从而得出训练得到的模型是否为过拟合or欠拟合。但是在特征很多的时候，这种画图的方法就行不通了。</strong></p><h6 id="方法1：将训练的数据集分为TrainingSet和TestSet"><a href="#方法1：将训练的数据集分为TrainingSet和TestSet" class="headerlink" title="方法1：将训练的数据集分为TrainingSet和TestSet"></a>方法1：将训练的数据集分为TrainingSet和TestSet</h6><p>​<strong>常见的分割比例为7（TrainingSet）:3（TEstSet）</strong></p><p>步骤：</p><p>​（1）将训练集分组</p><p>​（2）用训练集将参数进行训练</p><p>​（3）将训练的到的参数代入到测试集中计算误差，对于线性回归来说误差公式为：<br>$$<br>J_{test} &#x3D; {1 \over 2 * m_{test}}{\sum_{i &#x3D; 1}^{M_{test}}(h_{\theta}(x_{test}^i) - y_{test}^i)^2}<br>$$<br>logistic回归的误差函数也很相似。<strong>logistic回归的误差又被称为（0&#x2F;1 misclassification error）</strong></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Chapter10-决定下一步做什么"><a href="#Chapter10-决定下一步做什么" class="headerlink" title="Chapter10.决定下一步做什么"></a>Chapter10.决定下一步做什么</h3><h4 id="一、模型评估，如何对算法的评估"><a href="#一、模型评估，如何对算法的评估" class="headerlink" title="一、模型评估，如何对算法的评估"></a>一、模型评估，如何对算法的评估</h4><h5 id="1-过拟合、欠拟合问题的评估"><a href="#1-过拟合、欠拟合问题的评估" class="headerlink" title="1.过拟合、欠拟合问题的评估"></a>1.过拟合、欠拟合问题的评估</h5><p>​<strong>在特征少的时候，可以通过将训练集中的数据通过图形表示出来，观察拟合得到的曲线是否过于贴合训练所用的数据集，从而得出训练得到的模型是否为过拟合or欠拟合。但是在特征很多的时候，这种画图的方法就行不通了。</strong></p><h6 id="方法1：将训练的数据集分为TrainingSet和TestSet"><a href="#方法1：将训练的数据集分为TrainingSet和TestSet" class="headerlink" title="方法1：将训练的数据集分为TrainingSet和TestSet"></a>方法1：将训练的数据集分为TrainingSet和TestSet</h6><p>​<strong>常见的分割比例为7（TrainingSet）:3（TEstSet）</strong></p><p>步骤：</p><p>​（1）将训练集分组</p><p>​（2）用训练集将参数进行训练</p><p>​（3）将训练的到的参数代入到测试集中计算误差，对于线性回归来说误差公式为：<br>$$<br>J_{test} &#x3D; {1 \over 2 * m_{test}}{\sum_{i &#x3D; 1}^{M_{test}}(h_{\theta}(x_{test}^i) - y_{test}^i)^2}<br>$$<br>logistic回归的误差函数也很相似。<strong>logistic回归的误差又被称为（0&#x2F;1 misclassification error）</strong></p><h4 id="二、模型的选择、训练和验证，以及数据集"><a href="#二、模型的选择、训练和验证，以及数据集" class="headerlink" title="二、模型的选择、训练和验证，以及数据集"></a>二、模型的选择、训练和验证，以及数据集</h4><h5 id="1-模型的选择"><a href="#1-模型的选择" class="headerlink" title="1.模型的选择"></a>1.模型的选择</h5><p>交叉验证集</p><p>6:2:2 Traing set cross validation set Test set</p>]]></content>
     
     
       
