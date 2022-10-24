@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://houchaoyue.top/2022/10/22/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A%E7%AC%AC%E5%9B%9B%E7%AB%A01-3/</loc>
+    <loc>http://houchaoyue.top/2022/10/17/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter10/</loc>
     
     <lastmod>2022-10-24</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://houchaoyue.top/2022/10/17/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0chapter10/</loc>
+    <loc>http://houchaoyue.top/2022/10/22/%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BD%9C%E4%B8%9A%E7%AC%AC%E5%9B%9B%E7%AB%A01-3/</loc>
     
     <lastmod>2022-10-24</lastmod>
     
@@ -146,13 +146,6 @@
 
   
   <url>
-    <loc>http://houchaoyue.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://houchaoyue.top/tags/Linux/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -161,6 +154,13 @@
   
   <url>
     <loc>http://houchaoyue.top/tags/Makefile/</loc>
+    <lastmod>2022-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://houchaoyue.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -204,14 +204,14 @@
 
   
   <url>
-    <loc>http://houchaoyue.top/categories/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://houchaoyue.top/categories/%E5%B7%A5%E5%85%B7%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://houchaoyue.top/categories/WD%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
